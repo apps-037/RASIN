@@ -8,7 +8,7 @@ Marking the attendance automatically with the timestamp the student marked the a
 Faculty will be able to download Excel files  of the attendance whenever they want .
 
 
-##SCREENSHOTS
+# SCREENSHOTS
 
 LOGIN PAGE:
 
