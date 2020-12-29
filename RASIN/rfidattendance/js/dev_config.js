@@ -1,6 +1,6 @@
 $(document).ready(function(){
 
-	//Add Device 
+	
 	$(document).on('click', '#dev_add', function(){
 
 		var dev_name = $('#dev_name').val();
